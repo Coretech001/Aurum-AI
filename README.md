@@ -6,12 +6,6 @@
 
 The current desktop interface is built with **Python and Tkinter**, while the project is gradually transitioning to a modern stack based on **Rust, React, TypeScript, and Tauri**.
 
-> ⚠️ **Risk Disclaimer**
->
-> Trading financial instruments involves substantial risk. Always validate strategies through backtesting and forward testing on demo accounts before considering live deployment. The **Subgraph** module is read-only and does not place trading orders.
->
-> No build is approved for live trading or public distribution without the required testing and security verification.
-
 ---
 
 ## 🚀 Features
