@@ -77,11 +77,10 @@ For the exact Python version and dependency requirements, consult the project co
 ### 1. Clone the Repository
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/Coretech001/Aurum-AI.git
 cd AurumAI
 ```
 
-Replace `<repository-url>` with the actual Git repository URL.
 
 ### 2. Create a Virtual Environment
 
@@ -174,12 +173,6 @@ Run the build script:
 
 ```powershell
 .\build_installer.cmd
-```
-
-The expected installer output is:
-
-```text
-dist/AurumAI_Setup_<version>.exe
 ```
 
 ### Build Architecture
